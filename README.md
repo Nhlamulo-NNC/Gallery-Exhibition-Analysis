@@ -30,6 +30,6 @@ Gallery exhibition dataset containing:
 - Dates
 - Ratings
 
-## 🚀 How to Run
+# How to Run
 ```bash
 pip install -r requirements.txt
