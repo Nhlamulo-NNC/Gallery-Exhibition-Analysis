@@ -3,6 +3,14 @@
 # Project Obejctive
   * This project seeks to answer the question: Since everything in today's society is moving towards digital spaces, how has has the Art industry handled this shift?
 
+# How to Run the Project
+ 1. Clone the repository
+git clone https://github.com/Nhlamulo-NNC/Gallery-Exhibition-Analysis.git
+cd Gallery-Exhibition-Analysis
+2.pip install -r requirements.txt
+3. Open the file (after running the jupyter notebook): GalleryExhibitions_Analysis.ipynb
+All analysis, visualizations, and insights are contained within the notebook.
+
 # Overview
 This project analyzes artwork exhibition data to uncover trends in:
 - Artwork types exhibited over time
@@ -30,5 +38,3 @@ Gallery exhibition dataset containing:
 - Dates
 - Ratings
 
-# How to Run
-pip install -r requirements.txt
