@@ -7,6 +7,7 @@
  1. Clone the repository
 git clone https://github.com/Nhlamulo-NNC/Gallery-Exhibition-Analysis.git
 cd Gallery-Exhibition-Analysis
+
 2.pip install -r requirements.txt
 3. Open the file (after running the jupyter notebook): GalleryExhibitions_Analysis.ipynb
 All analysis, visualizations, and insights are contained within the notebook.
